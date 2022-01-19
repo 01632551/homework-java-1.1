@@ -15,7 +15,7 @@
 * [Пример установленного формата о тестировании](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/report.md)
 
 *В качестве тестовых данных использовались данные:* [из этого источника](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
-* 2_500_000_000
+* 2_500_000_000 
 
 *Тестирование производилось в следующем окружении:*
 * Windows 10, 64 bit
